@@ -83,7 +83,7 @@ body {
 }
 .nav-item{
     color: var(--mainBlack);
-    font-family: 'Times New Roman', Times, serif;
+    font-family:'Times New Roman', Times, sans-serif;
     font-weight: var(--mainBlack);
 }
 .navbar-icon{
