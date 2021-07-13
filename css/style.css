@@ -79,11 +79,11 @@ body {
     border-bottom: 0.1rem solid var(--mainWhite);
 }
 .nav-active{
-    border-bottom: 0.1rem solid var(--mainYellow);
+    border-bottom: 0.1rem solid var(--mainBlack);
 }
 .nav-item{
     color: var(--mainBlack);
-    font-family:'Times New Roman', Times, sans-serif;
+    font-family:'Times New Roman', Times, serif;
     font-weight: var(--mainBlack);
 }
 .navbar-icon{
