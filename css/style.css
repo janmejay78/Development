@@ -255,7 +255,7 @@ body {
 /* end of home filler */
 /* featured section */
 .featured-container{
-    background: var(--TransGrey);
+    background: var(--mainWhite);
     position: relative;
     overflow: hidden;
 }
@@ -277,7 +277,7 @@ body {
 .featured-container:hover .featured-search-icon{
     transform: translateX(0%);
 }
-.featured-contact-link{
+.featured-product-link{
     background: var(--mainYellow);
     color: var(--mainBlack);
     position: absolute;
@@ -288,10 +288,10 @@ body {
     transform: translateX(110%);
     cursor: pointer;
 }
-.featured-contact-link:hover{
+.featured-product-link:hover{
     color: var(--mainBlack);
 }
-.featured-container:hover .featured-contact-link{
+.featured-container:hover .featured-product-link{
     transform: translateX(0%);
 }
 /* end of featured section */
